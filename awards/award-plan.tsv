@@ -1,0 +1,5 @@
+sku_id	description	target_currency	max_acceptable_cents	valid_offers	best_valid_price_cents	selected_offer_id	selected_vendor_id	selected_price_cents	decision
+SKU-ALP	Alpine water filter	USD	1300	2	1150	O-102	VEN-A	1150	AWARD
+SKU-BRK	Brake cable kit	EUR	900	1	950	-	-	-	OVER_CAP
+SKU-CRN	Ceramic mug	USD	700	1	650	O-106	VEN-B	650	AWARD
+SKU-DRF	Drafting film	USD	500	1	480	O-110	VEN-B	480	AWARD
